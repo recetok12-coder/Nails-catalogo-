@@ -1,5 +1,4 @@
-# Nails-catalogo-
-Catalogo de uñas
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -7,7 +6,7 @@ Catalogo de uñas
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catálogo de Servicios</title>
   <link rel="stylesheet" href="style.css">
-  * {
+  .{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
